@@ -23,11 +23,11 @@ Objectives
 3) Provide visual comparisons for better understanding and decision-making.
 
 Results
-Hierarchical Filling: Moderate speed, good detail preservation.
-Fast Adaptive Upscaling: Fastest method, suitable for real-time applications.
-Bicubic Interpolation: High-quality images, slower processing time.
-Bilinear Interpolation: Fast processing, less detail.
-Nearest Neighbor: Fastest but lowest quality.
+1) Hierarchical Filling: Moderate speed, good detail preservation.
+2) Fast Adaptive Upscaling: Fastest method, suitable for real-time applications.
+3) Bicubic Interpolation: High-quality images, slower processing time.
+4) Bilinear Interpolation: Fast processing, less detail.
+5) Nearest Neighbor: Fastest but lowest quality.
 
 Conclusion
 
